@@ -25,5 +25,5 @@ La couleur et le logo de notre projet ont été conçu par nous-même.
 
 
 <div style={{ textAlign: 'center' }}>
-<img src="/img/logo.png" height="100" width="100"/>
+<img src="https://i.imgur.com/YnkxP3r.png" height="100" width="100"/>
 </div>
