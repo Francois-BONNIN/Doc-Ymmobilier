@@ -4,13 +4,23 @@ sidebar_position: 2
 
 # React Native
 
-React Native est un framework JavaScript de développement d'application mobile. C'est une collection de composants, de librairies et d'outils qui permettent de créer des single page applications et de réaliser des applications mobiles riches et performantes.
+git clone _react-native github_
+
+
 
 `npm install`
 
- changer IpHome dans le fichier YmmobilierAPI.js
+Nous on utilisais Ngrok pour créer un tunnel vers notre serveur.
 
-`npm start`
+Changer IpHome dans le fichier /api/YmmobilierAPI.js par l'hôte fourni par ngrok.
 
 ## Expo
+
+Démarrer expo `npm start`
+
+Utiliser l'application Expo Go pour flasher le QrCode et ainsi posséder un accès à l'application.
+
+
+
+
 

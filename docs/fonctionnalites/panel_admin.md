@@ -8,16 +8,18 @@ sidebar_position: 3
 Lors de l'arrivée sur la page d'accueil, l'utilisateur est invité soit à se connecter soit à se créer un compte.
 
 :::info
-Seul les membres possèdant le rôle *admin* peuvent accéder au panneau d'administration.
+Afin d'accéder au panel d'administration pour tester les fonctionnalités vous pouvez vous connecter au compte admin en utilisant les identifiants suivants :
+
+- identifiant : `admin@test.com`
+- mot de passe : `admin`
 :::
 
-
+     
 Le panneau d'administration est composé en trois parties :
 
 1. [La gestion des utilisateurs](#users_gestion)
 2. [La gestion des propriétés](#properties_gestion)
 3. [La gestion des demandes de visites](#reservation_gestion)
- 
 
 ## La gestion des utilisateurs {#users_gestion}
 

@@ -20,6 +20,14 @@ _Image de la page détaillée_
 Plusieurs fonctionnalités sont disponibles uniquement pour les utilisateurs connectés.
 Ainsi l'utilisateur est invité à s'authentifier dans la page `Login`
 
+:::info
+
+Vous pouvez vous connecter avec les identifiants suivants :
+- identifiant : `user@test.com`
+- mot de passe : `user`
+
+:::
+
 ## Les Favoris
 
 En haut à droite de la page détail de la propriété, il peut ajouter une propriété à ses favoris en cliquant sur le petit icone ❤️.

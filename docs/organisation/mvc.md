@@ -21,7 +21,7 @@ La partie **Modèle** de cette documentation se trouve [ici](/docs/organisation/
 
 ## Les Contrôleurs {#les-controleurs}
 
-Un controleur va traiter les actions de l'utilisateur, demander au(x) modèle(s) d'effectuer des changements puis de renvoyer une vue ou une réponse (pour l'api). C'est donc le pont entre les interactions de l'utilisateur et le traitement des données dans les différents modèles.
+Un contrôleur va traiter les actions de l'utilisateur, demander au(x) modèle(s) d'effectuer des changements puis de renvoyer une vue ou une réponse (pour l'api). C'est donc le pont entre les interactions de l'utilisateur et le traitement des données dans les différents modèles.
 
 Toutes les fonctions présentent dans les contrôleurs sont reliées à une route.
 
